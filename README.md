@@ -1,5 +1,9 @@
 # 🧠 Sentiment Analysis of Product Reviews 🌟
 
+<li>
+  <a href="https://github.com/Ateibuzena/nlp-ratings">GitHub Repository</a>
+</li>
+
 Category   ➡️   Data Science
 
 Subcategory   ➡️   NLP Engineer
