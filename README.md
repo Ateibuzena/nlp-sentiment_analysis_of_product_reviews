@@ -3,7 +3,7 @@
 <li>
   <a href="https://github.com/Ateibuzena/nlp-ratings">GitHub Repository</a>
 </li>
-
+<br>
 Category   ➡️   Data Science
 
 Subcategory   ➡️   NLP Engineer
